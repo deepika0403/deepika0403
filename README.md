@@ -6,7 +6,7 @@
 
 ### ✨ About Me
 - 🤖 Building cool ML & web projects  
-- 🌐 Tech + Huamn = ❤  
+- 🌐 Tech + Human = ❤  
 - 📍 Based in Bengaluru  
 - 🎯 Dream: Become a top AI Engineer
 
